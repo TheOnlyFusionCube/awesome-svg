@@ -8,6 +8,7 @@
 * [C3.js](https://github.com/masayuki0812/c3)
 * [Charted](http://www.charted.co/)
 * [Chartist.js](http://gionkunz.github.io/chartist-js/)
+* [claude-motion](https://github.com/TheOnlyFusionCube/claude-motion) - Programmatic motion graphics runtime and agent toolkit to direct and render 2D/3D motion films, UI walkthroughs, and physics simulations.
 * [D3.js](http://d3js.org/)
 * [DrawSVG](https://github.com/petercollingridge/DrawSVG)
 * [Frappé](https://github.com/frappe/charts)
